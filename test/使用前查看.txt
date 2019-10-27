@@ -1,0 +1,7 @@
+videojs播放rtmp流，测试代码，需要部署到服务器上(包括但不限于tomcat，iis）,路径为test/tes2.html。videojs播放rtmp流，测试代码，需要部署到服务器上(包括但不限于tomcat，iis）,路径为test/tes2.html。videojs播放rtmp流，测试代码，需要部署到服务器上(包括但不限于tomcat，iis）,路径为test/tes2.html。
+这几篇文章：
+https://blog.csdn.net/cmqwan/article/details/60885111
+https://mp.csdn.net/postedit/76059703
+https://download.csdn.net/download/cmqwan/9983862
+
+我的联系方式 qq3060507060
